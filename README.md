@@ -19,7 +19,7 @@ Made for performance and visual clarity on **HyperOS 2**. ported from 2.0.2.0.VN
 
 ## 📎 Installation
 
-1. Flash via Magisk Manager.
+1. Flash via Magisk/KernelSU.
 2. Reboot your device.
 3. Done!
 
