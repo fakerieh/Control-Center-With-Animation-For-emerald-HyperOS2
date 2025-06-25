@@ -1,23 +1,42 @@
-# Gray Control Center With Animation For HyperOS2
-Gray Control Center with Animation is a custom SystemUI modification for HyperOS 2, featuring a clean gray aesthetic and smooth animation when swiping down the Control Center.
-Designed for users who want both performance and visual appeal.
+# Gray Control Center With Animation for HyperOS2
 
-🔧 Features:
-
-- Gray-themed Control Center
-
-- Smooth animation when swiping down
-
-- Optimized for performance
-
-- Compatible with HyperOS 2
-
-Root required
-
-
-> ⚠️ Only tested on POCO M6 Pro 4G (emerald). Use at your own risk.
-
-
-
+A custom Control Center mod with a clean gray theme and smooth swipe-down animation.  
+Made for performance and visual clarity on **HyperOS 2**. ported from 2.0.2.0.VNFMIXM
+> ⚠️ Root access is required.
 
 ---
+
+## 📌 Features
+
+- Gray-colored Control Center
+- Smooth animation when swiping down
+- Simple and clean look
+- Low CPU & RAM usage
+- Only for **HyperOS 2**
+
+---
+
+
+## 📎 Installation
+
+1. Flash via Magisk Manager.
+2. Reboot your device.
+3. Done!
+
+---
+
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**.  
+See the [LICENSE](./LICENSE) file for more info.
+
+---
+
+## 💬 Contact
+
+Join the discussion: [Telegram Group](https://t.me/EmeraldDiscuss)  
+TikTok: [@emerald_g99](https://www.tiktok.com/@emerald_g99)
+
+---
+
+**Created by Fakeri**
