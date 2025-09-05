@@ -1,2 +1,2 @@
 # V1
-- Hello world
+- Partial release 
