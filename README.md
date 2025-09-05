@@ -39,4 +39,4 @@ TikTok: [@emerald_g99](https://www.tiktok.com/@emerald_g99)
 
 ---
 
-**Created by Fakeri**
+**Credits: @Uzumakik22 on tele!**
