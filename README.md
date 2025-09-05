@@ -15,6 +15,14 @@ Made for performance and visual clarity on **HyperOS 2**.
 
 ---
 
+## 🖼️ Preview
+
+
+https://github.com/user-attachments/assets/cee215e9-e3e3-44ce-af0f-29993c7d3b86
+
+
+---
+
 
 ## 📎 Installation
 
