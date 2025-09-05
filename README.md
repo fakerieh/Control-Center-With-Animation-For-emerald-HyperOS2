@@ -24,6 +24,14 @@ Made for performance and visual clarity on **HyperOS 2**.
 
 ---
 
+
+## ⚠️ Information
+ - DO NOT COMBINE WITH OTHER CONTROL CENTER BLUR MODULE. otherwise it wouldn't work
+ - Only for gray control center
+   
+
+---
+
 ## 📄 License
 
 This project is licensed under the **Apache License 2.0**.  
