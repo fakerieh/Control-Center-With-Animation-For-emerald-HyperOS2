@@ -1,4 +1,4 @@
-# Gray Control Center With Animation for HyperOS2 emerald
+# Gray Control Center With Animation for emerald HyperOS2
 
 A custom Control Center mod with a clean gray theme and smooth swipe-down animation.  
 Made for performance and visual clarity on **HyperOS 2**.
